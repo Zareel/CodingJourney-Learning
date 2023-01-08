@@ -1,4 +1,4 @@
-# Live class from Hithesh
+# Live class from Hithesh Chaudhary
 
 ## A class about hosting your webpage for free
 
